@@ -1,0 +1,11 @@
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\bin\Debug\netcoreapp2.1\myttrackerr.deps.json
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\bin\Debug\netcoreapp2.1\myttrackerr.runtimeconfig.json
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\bin\Debug\netcoreapp2.1\myttrackerr.runtimeconfig.dev.json
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\bin\Debug\netcoreapp2.1\myttrackerr.dll
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\bin\Debug\netcoreapp2.1\myttrackerr.pdb
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\obj\Debug\netcoreapp2.1\myttrackerr.csprojAssemblyReference.cache
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\obj\Debug\netcoreapp2.1\myttrackerr.csproj.CoreCompileInputs.cache
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\obj\Debug\netcoreapp2.1\myttrackerr.AssemblyInfoInputs.cache
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\obj\Debug\netcoreapp2.1\myttrackerr.AssemblyInfo.cs
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\obj\Debug\netcoreapp2.1\myttrackerr.dll
+C:\Users\tiyoon\source\repos\myttrackerr\myttrackerr\obj\Debug\netcoreapp2.1\myttrackerr.pdb
